@@ -6,6 +6,8 @@ Ce projet regropue les pistes de financement pour Terre des jeunes.
 ## Ressources 
 
 * [Project board](https://github.com/orgs/tdjeunes/projects/2/views/1?system_template=kanban)
+* [Google drive financement](https://drive.google.com/drive/folders/1hGpxTTgDTOgPh72KOUv7XvUmJJBCwWrE?dmr=1&ec=wgc-drive-%5Bmodule%5D-goto)
+* [Google sheet de demandes](https://docs.google.com/spreadsheets/d/16tyqKNLalRoj2SuEKknGJxfll8_6GP_gnzcHGFcl-vA/edit?gid=0#gid=0)
 * Groupe WhatsApp Formation Financement TDJ Mondiale
 
 ## Objectif 
